@@ -1,3 +1,4 @@
+#attribution - www.leetcode.com
 # Reverse a singly linked list.
 
 # Definition for singly-linked list.
@@ -23,4 +24,3 @@ class Solution:
             
         
         return prev
-        
