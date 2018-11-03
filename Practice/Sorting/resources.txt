@@ -1,0 +1,17 @@
+https://medium.com/basecs/tagged/sorting-algorithms
+https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add
+https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8
+https://medium.com/@lisulimowicz/sorting-algorithms-304d0b1817ab
+https://medium.com/karuna-sehgal/an-introduction-to-sorting-algorithms-de054c62176f
+https://code.likeagirl.io/sorting-algorithms-conceptually-2bfbb3968388
+
+
+Classifying Sorts:
+- Time Complexity
+- Space Complexity
+- internal vs external (internal - sorting occurs in RAM, external - sorting occurs on disk or external memory)
+- stability (when two numbers are equal order is preserved - stable, not preserved- unstable)
+- recursive vs iterative
+-  comparison vs non comparison sort
+
+
