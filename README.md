@@ -13,6 +13,6 @@ The Algorithms are categorized based on basic implementation into following:
 
 
 ## Usage:
-1. Install python `Python 2.7.0`
+1. Install python `Python 3.7`
 2. cd to `Algorithms` directory and run file using its relative path <br>
 `eg: python ./String/FindandReplaceString.py`
