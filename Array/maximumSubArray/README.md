@@ -1,4 +1,4 @@
-##Maximum Subarray (Leetcode: 53)
+## Maximum Subarray (Leetcode: 53)
 
 Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
@@ -11,7 +11,7 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 ```
 
-##Solution
+## Solution
 
 ### Method 1: Storing Sum
 
