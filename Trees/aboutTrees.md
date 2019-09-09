@@ -11,7 +11,7 @@ A tree node with no children is known as `leaf` node.
 Following is an illustration of an n children tree. 
 
 ![alt Tree Structure](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_tree.jpg)
-
+ref: [image link](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_tree.jpg)
 
 ## General Complexity
 
@@ -40,4 +40,6 @@ class TreeNode:
         self.data = data    # stored data value
         self.children = []  # Array represnting pointers to the children node
 ```
+
+
 
