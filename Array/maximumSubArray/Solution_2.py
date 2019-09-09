@@ -1,5 +1,5 @@
 class Solution:
-    def maxSubArray(self, nums) -> int:
+    def maxSubArray(self, nums):
 
         max_sum = nums[0]
         curr_sum = nums[0]
