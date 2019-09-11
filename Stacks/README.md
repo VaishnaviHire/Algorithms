@@ -22,6 +22,9 @@ A stack can be implemented using an array or linkedlist.
 ## General Complexities
 
 The time complexity for all the above stack operations is <b>O(1)</b> and the space complexity
-is <b>O(n)</b> where n is length of the stack
+is <b>O(n)</b> where n is length of the stack.
+
+The time complexity of search operation is <b>O(n)</b>
+
 
 
